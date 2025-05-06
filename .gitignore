@@ -1,5 +1,8 @@
 MSTPRIM.exe
+MST-Kruskal.exe
+
 
 MSTPRIM.o
+MST-Kruskal.o
 
 /.vscode
